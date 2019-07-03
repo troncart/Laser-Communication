@@ -1,4 +1,10 @@
-  int ledArray [29][6] = 
+/*********TACHLOG powered********
+*********www.troncart.com*******
+**electronics components online**
+***********LASER Communication*************
+*************************
+*/ 
+int ledArray [29][6] = 
   {
   {'a', 0, 0, 0, 0, 1}, //a
   {'b', 1, 1, 1, 0, 0}, //b
